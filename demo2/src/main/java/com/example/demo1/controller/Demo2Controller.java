@@ -27,10 +27,4 @@ public class Demo2Controller {
     }
 
 
-    @RequestMapping("/find2")
-    @ResponseBody
-    public String find2(){
-        return "hahah";
-    }
-
 }
